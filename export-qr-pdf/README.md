@@ -1,10 +1,10 @@
 # Export QR to PDF File
 
-Simple snippet for export qrcode to PDF, this project use [pdfmake](https://www.npmjs.com/package/pdfmake) for generate qrcode and export file to PDF.
+Simple snippet for export qrcode to PDF, this project use [nodejs](https://nodejs.org/) [pdfmake](https://www.npmjs.com/package/pdfmake) for generate qrcode and export file to PDF.
 
 ## Requirement
 
-- Node v14.0.0
+- [Node v14.0.0](https://nodejs.org/)
 
 ## Node Package
 
